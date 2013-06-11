@@ -1,0 +1,25 @@
+<resources>
+    
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <!--
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact based on your message history</string>
+    -->
+
+    <string name="pref_key_choose_dictionary">dictionary_list</string>
+    <string name="pref_title_choose_dictionary">Choose Dictionary</string>
+
+    <string name="item_dictionary_dot_com">Dictionary.com</string>
+    <string name="item_dict_dot_cn">Dict.cn</string>
+    <string name="item_dictionary_default">@string/item_dictionary_dot_com</string>
+
+    <string-array name="pref_dictionary_list_titles_and_values">
+        <item>@string/item_dictionary_dot_com</item>
+        <item>@string/item_dict_dot_cn</item>
+    </string-array>
+
+</resources>

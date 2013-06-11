@@ -1,0 +1,6 @@
+DictionaryHub/build/*
+*.apk
+.idea
+.gradle
+gradle/*
+gradlew*
